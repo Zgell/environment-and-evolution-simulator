@@ -9,3 +9,7 @@ I don't intend to update or to continue work on this repository going forward, a
 # How to Run the Program
 
 Firstly, download the file from the repository, and extract them to a folder of your choosing. Make sure that all five files are in the same folder. Then, open the "main.m" file in MATLAB. We created the program in version R2019b, and so we recommend that for best results you use that version as well. And that's it.
+
+In theory, the program could also be run using GNU Octave if you don't have access to MATLAB. However, there are two issues with this implementation:
+1. I can't guarantee that the performance of this code will be great using Octave as only MATLAB has access to the Intel Math Kernel Library.
+2. I also can't guarantee absolute compatibility as I know that Octave currently lacks some of MATLAB's advanced features, and I do not know enough about Octave to know if this includes the interface features.
