@@ -8,6 +8,10 @@ I am fully aware that this is likely not the most efficient implementation of th
 
 I don't intend to update or to continue work on this repository going forward, and instead I am publishing it here so that anyone interested can access the code for the simulation, or even use it for themselves if they want. However, I may recreate the project in a more suitable programming language with a more efficient and much faster framework in the future someday.
 
+For more information, check out the video we put together as part of the contest submission (link to YouTube video):
+
+[![Watch the video here](https://img.youtube.com/vi/9-RL1sSjUVY/maxresdefault.jpg)](https://youtu.be/9-RL1sSjUVY)
+
 ## How to Run the Program
 
 Firstly, download the file from the repository, and extract them to a folder of your choosing. Make sure that all five files are in the same folder. Then, open the "main.m" file in MATLAB. We created the program in version R2019b, and so we recommend that for best results you use that version as well. And that's it.
